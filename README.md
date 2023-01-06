@@ -7,4 +7,5 @@ Live Demo:  https://khallslearn.github.io/Movie-App/
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript and TMDB API.
+https://www.themoviedb.org/
 
